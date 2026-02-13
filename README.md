@@ -18,7 +18,7 @@ I specialize in bridging the gap between complex AI infrastructure and human-cen
 - **SARVAM Model Integration** (v9.1)
 - **Strategic Prompt Engineering**
 - **Tesseract.js** (OCR)
-- **High-Context Architecture** (120k+ character handling)
+- **High-Context Architecture** (32k+ character handling)
 - **Natural Language Processing**
 
 ### Web Development
@@ -46,7 +46,7 @@ I specialize in bridging the gap between complex AI infrastructure and human-cen
 Developed a high-speed AI chat engine featuring a sophisticated Glassmorphism UI for a clean, efficient user experience.
 
 **The Tech:**  
-Integrated the SARVAM model (v9.1), managing a massive 120k character context limit to allow for deep, long-form information retrieval and natural conversations.
+Integrated the SARVAM model (v9.1), managing a massive 32k character context limit to allow for deep, long-form information retrieval and natural conversations.
 
 **Impact:**  
 Successfully scaled to **430+ active users** with high engagement and retention rates.
