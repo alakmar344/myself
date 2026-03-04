@@ -49,7 +49,7 @@ Developed a high-speed AI chat engine featuring a sophisticated Glassmorphism UI
 Integrated the SARVAM model (v9.1), managing a massive 32k character context limit to allow for deep, long-form information retrieval and natural conversations.
 
 **Impact:**  
-Successfully scaled to **430+ active users** with high engagement and retention rates.
+Successfully scaled to **630+ active users** with high engagement and retention rates.
 
 **Websites:**  
 - [esamz.site](https://esamz.site)
@@ -75,8 +75,8 @@ Seamless voice-first experience with **<200ms response time** for real-time cook
 
 | Metric | Value |
 |--------|-------|
-| **Active Users** | 430+ |
-| **Context Window** | 120k characters |
+| **Active Users** | 630+ |
+| **Context Window** | 32k characters |
 | **Deployment Uptime** | 99% |
 | **Response Time** | <200ms (Voice) |
 
